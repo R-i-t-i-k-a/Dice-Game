@@ -6,7 +6,7 @@ This project implements a simple dice game using HTML, CSS, and JavaScript. It g
 
 ## Usage
 
-1. Open the `index.html` file in a web browser.
+1. Open the `dicee.html` file in a web browser.
 2. Click the "Roll Dice" button to play the game.
 3. Observe the dice faces displayed for each player and the winner/tie result.
 
@@ -19,5 +19,5 @@ This project implements a simple dice game using HTML, CSS, and JavaScript. It g
 
 ## Installation
 
-There is no specific installation required. You can simply open the `index.html` file in a web browser to play the game.
+There is no specific installation required. You can simply open the `dicee.html` file in a web browser to play the game.
 
